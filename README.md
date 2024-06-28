@@ -13,12 +13,6 @@
 
 </div>
 
-### Github stats:
-[![](https://github-readme-stats.vercel.app/api?username=A8ton-Ger&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/A8ton-Ger)
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=A8ton-Ger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/A8ton-Ger)
-
-
-
 
 - How you can reach me:
   
